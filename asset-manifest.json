@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/White-Matrix-Website/static/css/main.f6575c60.css",
+    "main.js": "/White-Matrix-Website/static/js/main.2162570d.js",
+    "static/media/software.jpg": "/White-Matrix-Website/static/media/software.86c66569a3e124d88c5b.jpg",
+    "static/media/voip2.jpg": "/White-Matrix-Website/static/media/voip2.d362a9f1bca4ddf46c67.jpg",
+    "static/media/ai1.jpg": "/White-Matrix-Website/static/media/ai1.856d917af0de082d5f25.jpg",
+    "static/media/AIM1.png": "/White-Matrix-Website/static/media/AIM1.59239d324c1e600aba94.png",
+    "static/media/mobile.png": "/White-Matrix-Website/static/media/mobile.600e3218dee2749d7250.png",
+    "static/media/software12.jpg": "/White-Matrix-Website/static/media/software12.a4f8c27fad271a62554d.jpg",
+    "static/media/app12.jpg": "/White-Matrix-Website/static/media/app12.e1002c1458fd6af107c7.jpg",
+    "static/media/bg.png": "/White-Matrix-Website/static/media/bg.26da33d7dc920149bcc3.png",
+    "static/media/bg3.png": "/White-Matrix-Website/static/media/bg3.70d8fd59ec8f82d8714a.png",
+    "static/media/voip1.jpg": "/White-Matrix-Website/static/media/voip1.ee026cfb17f8a8144f17.jpg",
+    "static/media/Research_paper.pdf": "/White-Matrix-Website/static/media/Research_paper.68267a2cea07e74c672b.pdf",
+    "static/media/logo.png": "/White-Matrix-Website/static/media/logo.a45ca0e583216534fd63.png",
+    "static/media/slick.svg": "/White-Matrix-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/White-Matrix-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/White-Matrix-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/White-Matrix-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/White-Matrix-Website/index.html",
+    "main.f6575c60.css.map": "/White-Matrix-Website/static/css/main.f6575c60.css.map",
+    "main.2162570d.js.map": "/White-Matrix-Website/static/js/main.2162570d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6575c60.css",
+    "static/js/main.2162570d.js"
+  ]
+}
